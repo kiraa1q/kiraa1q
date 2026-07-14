@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, im Kira1q!
+
+# A swiss developer having fun building cool projects.
+
 
 <!--
 **kiraa1q/kiraa1q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
